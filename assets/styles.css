@@ -1,0 +1,43 @@
+body{
+    font-family: verdana;
+    padding: 1rem;
+}
+
+h1{
+    text-align: center;
+}
+
+/* #add-bookmark{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+} */
+
+div#add-bm{
+    background-color: aqua;
+    
+}
+
+
+form > div{
+    display: flex;
+    padding: 1rem;
+    justify-content: space-evenly;
+    /* max-width: 80%; */
+    /* width: 100%; */
+
+}
+
+/* div > label{
+    flex: 2;
+}
+
+div > input{
+    flex: 1;
+}
+
+div > select{
+    flex: 1;
+}  */
+
+
